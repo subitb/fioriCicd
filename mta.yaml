@@ -1,4 +1,4 @@
-_schema-version: "3.2"
+_schema-version: "3.3"
 ID: supplier
 description: A Fiori application.
 version: 0.0.2
